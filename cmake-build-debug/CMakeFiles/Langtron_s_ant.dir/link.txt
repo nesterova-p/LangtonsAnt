@@ -1,0 +1,3 @@
+"D:\programs\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Langtron_s_ant.dir/objects.a
+"D:\programs\CLion 2024.2.2\bin\mingw\bin\ar.exe" qc CMakeFiles\Langtron_s_ant.dir/objects.a @CMakeFiles\Langtron_s_ant.dir\objects1.rsp
+"D:\programs\CLion 2024.2.2\bin\mingw\bin\gcc.exe" -g -Wl,--whole-archive CMakeFiles\Langtron_s_ant.dir/objects.a -Wl,--no-whole-archive -o Langtron_s_ant.exe -Wl,--out-implib,libLangtron_s_ant.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Langtron_s_ant.dir\linkLibs.rsp
